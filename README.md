@@ -95,20 +95,8 @@ While accessing OEM, an `Invalid Container Name` message appeared.
 The HTTPS port for the PDB was checked and found to be `0`, meaning that no dedicated HTTPS port was configured.
 A dedicated HTTPS port, `5502`, was configured for `PH_PDB_29793`. OEM was then successfully accessed through the PDB-specific URL.
 
- 7. Repository Structure
 
-```text
-oracle_pdb_ass_II_29793_Phiona/
-│
-├── README.md
-│
-└── screenshots/
-    ├── pdb_creation/
-    ├── pdb_deletion/
-    └── oem_dashboard/
-```
-
-8. Submission Details
+7. Submission Details
 
 * Repository Name: `oracle_pdb_ass_II_29793_Phiona`
 * Repository Visibility: Public
